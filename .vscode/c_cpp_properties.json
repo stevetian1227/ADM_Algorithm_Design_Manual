@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "windows-gcc-arm",
+            "compilerPath": "C:\\MinGW\\bin\\gcc",
+            "cStandard": "c17"
+        }
+    ],
+    "version": 4
+}
